@@ -1,0 +1,15 @@
+{
+  "src/main.js": {
+    "file": "assets/main.73fa66f1.js",
+    "src": "src/main.js",
+    "isEntry": true,
+    "css": [
+      "assets/main.d160d600.css"
+    ],
+    "assets": [
+      "assets/svg-logo.b3f99a3b.svg",
+      "assets/top-mark.1ea4a485.svg",
+      "assets/person-mark.d41d6939.svg"
+    ]
+  }
+}
